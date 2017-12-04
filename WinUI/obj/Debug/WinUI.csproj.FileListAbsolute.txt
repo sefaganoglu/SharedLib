@@ -1,0 +1,12 @@
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\bin\Debug\WinUI.exe.config
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\bin\Debug\WinUI.exe
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\bin\Debug\WinUI.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\obj\Debug\WinUI.csprojResolveAssemblyReference.cache
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\obj\Debug\WinUI.Form1.resources
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\obj\Debug\WinUI.csproj.GenerateResource.Cache
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\obj\Debug\WinUI.exe
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\obj\Debug\WinUI.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\bin\Debug\SharedLibrary.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\WinUI\bin\Debug\SharedLibrary.pdb

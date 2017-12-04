@@ -1,0 +1,5 @@
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLibrary\obj\Debug\SharedLibrary.pdb

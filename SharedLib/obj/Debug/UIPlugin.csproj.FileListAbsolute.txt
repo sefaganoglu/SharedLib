@@ -1,0 +1,8 @@
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\UIPlugin.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\UIPlugin.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\SharedLibrary.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\SharedLibrary.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\UIPlugin.csprojResolveAssemblyReference.cache
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\UIPlugin.csproj.CoreCompileInputs.cache
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\UIPlugin.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\UIPlugin.pdb

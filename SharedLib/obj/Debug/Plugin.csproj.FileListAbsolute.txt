@@ -1,0 +1,8 @@
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\Plugin.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\Plugin.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\SharedLibrary.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\bin\Debug\SharedLibrary.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\Plugin.dll
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\Plugin.pdb
+C:\Users\SukruBORAN\Documents\Visual Studio 2017\Projects\SharedLib\SharedLib\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
